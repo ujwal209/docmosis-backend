@@ -1,0 +1,22 @@
+# Core Backend
+fastapi
+uvicorn[standard]
+pydantic[email]
+pydantic-settings
+python-dotenv
+python-multipart
+
+# Database & Vector Store
+supabase
+postgrest
+
+# AI & Document Processing
+langchain
+langchain-community
+langchain-openai
+pypdf
+tiktoken
+
+# Email & Utilities
+fastapi-mail
+httpx
